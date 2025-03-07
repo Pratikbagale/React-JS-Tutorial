@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+}
+
+.header {
+    background-color: black;
+    height: 90px;
+    color: white;
+    display: flex;
+    
+}
+
+.leftPanel {
+    color: white;
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rightPanel {
+    color: white;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rightPanel a {
+    text-decoration: none;
+    color: white;
+    margin-right: 50px;
+}
+
+.main {
+    background-color: gray;
+    height: 1200px;
+     
+}
+
+.footer {
+    
+    background-color: rgb(24, 18, 18);
+    color: white;
+    padding: 50px;
+}
+
+.footer a {
+     color: white;
+     font-size: 18px;
+     text-decoration: none;
+}
