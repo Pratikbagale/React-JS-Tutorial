@@ -1,0 +1,13 @@
+.reducerCounter {
+    padding: 50px;
+    text-align: center;
+    color: rgb(13, 97, 13);
+}
+
+.reducerCounter h2 {
+    margin-bottom: 20px;
+}
+
+.reducerCounter button {
+    margin-right: 50px;
+}
